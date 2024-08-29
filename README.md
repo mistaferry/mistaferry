@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+Welcome to my page :t-rex:
+</div>
 
-<!--
-**mistaferry/mistaferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :credit_card: My full name is ***Iryna Huryn*** <img src='https://media.giphy.com/media/3oz8xTAJIQD6JWfTUc/giphy.gif'  height="200px" align="right">
+- :school: I'm currently pursuing my degree at **Kyiv Polytechnic Institute**
+- :books: My major is **Computer Science**
+- :earth_asia: I'm Ukrainian, but living in Germany 
+- :heartpulse: Obsessed with coding, discovering new places, photographing and learning something new 
+- :speaking_head: Fluent in English and working on my German proficiency
