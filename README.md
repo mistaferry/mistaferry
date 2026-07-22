@@ -1,12 +1,26 @@
-<div align="center">
-<h1>Welcome to my page</h1>
-</div>
+# Hi, I'm Iryna Huryn 👋
+ 
+Computer Science graduate, currently pursuing a Master's degree in Game Technologies at Hochschule Bonn-Rhein-Sieg.
+ 
+## About me
+- 🎮 Developing games in Unity and studying game technologies
+- ☕ Also growing in Java/backend development - Spring Boot, SQL, Git, and software engineering principles
+- 🔍 Looking for opportunities in **game development** and **backend/Java development**
+- 🏡 Ukrainian, currently living in Germany
+- 🌍 Fluent in English, learning German
+- 📷 Interested in photography and travel
 
-My full name is ***Iryna Huryn*** and here is a short information about me: <img src='https://media.giphy.com/media/3oz8xTAJIQD6JWfTUc/giphy.gif'  height="250px" align="right">
+---
 
-- :school: I'm currently pursuing my degree at **Hochschule Bonn-Rhein-Sieg** 
-- :mortar_board: My major is **Informatik**
-- :earth_asia: I'm Ukrainian, but living in Germany
-- :desktop_computer: Starting my career as a Software Developer
-- :heartpulse: Obsessed with coding, discovering new places, photographing and learning something new 
-- :speaking_head: Fluent in English and working on my German proficiency
+## 🛠️ Tech Stack
+ 
+**Game Development**
+ 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+ 
+**Backend / Java**
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
