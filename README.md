@@ -3,7 +3,7 @@
 Computer Science graduate, currently pursuing a Master's degree in Game Technologies at Hochschule Bonn-Rhein-Sieg.
  
 ## About me
-- ☕ Experienced in Java/backend development
+<!-- - ☕ Experienced in Java/backend development -->
 - 🎮 Exploring game development in Unity as part of my Master's in Game Technologies
 - 🏡 Ukrainian, currently living in Germany
 - 🌍 Fluent in English, learning German
@@ -13,7 +13,7 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 
 ## 🛠️ Tech Stack
 
-**Backend Development**
+<!-- **Backend Development**
 
 *Backend & Frontend:*
 
@@ -37,7 +37,7 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
+-->
 **Game Development**
 
 *Engine & Language:*
@@ -56,9 +56,9 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 
 ## 📂 Projects
 
-**Java / Backend**
+<!-- **Java / Backend**
 - [Project Name](link) — короткий опис що це і що ти зробила
-
+-->
 **Game Development**
 - [Dragon Soup](https://github.com/DLuckYD/dragon-soup-game) - First-person fantasy tavern game featuring quests, cooking, dialogue, trading, object upgrades, and multiple endings.
 - [Fishy Game](https://github.com/DLuckYD/Fishy-Game) - Ocean-themed horde-like game developed in Unity with multiple depth layers, enemy spawning systems, and a custom hardware controller.
