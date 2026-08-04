@@ -3,8 +3,8 @@
 Computer Science graduate, currently pursuing a Master's degree in Game Technologies at Hochschule Bonn-Rhein-Sieg.
  
 ## About me
-- 🎮 Developing games in Unity and studying game technologies
-- 💻 Also growing in Java/backend development
+- ☕ Experienced in Java/backend development
+- 🎮 Exploring game development in Unity as part of my Master's in Game Technologies
 - 🏡 Ukrainian, currently living in Germany
 - 🌍 Fluent in English, learning German
 - 📷 Interested in photography and travel
@@ -29,6 +29,10 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 
 ## Projects
 
+**🎮 Game Development**
 - [Dragon Soup](https://github.com/DLuckYD/dragon-soup-game)
 - [Last Try](https://github.com/DLuckYD/last-try-game)
 - [Fishy Game](https://github.com/DLuckYD/Fishy-Game)
+
+**☕ Java / Backend**
+- [Dragon Soup](https://github.com/DLuckYD/dragon-soup-game)
