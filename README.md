@@ -61,4 +61,4 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 - [Dragon Soup](https://github.com/DLuckYD/dragon-soup-game) - First-person fantasy tavern game featuring quests, cooking, dialogue, trading, object upgrades, and multiple endings.
 - [Fishy Game](https://github.com/DLuckYD/Fishy-Game) - Ocean-themed horde-like game developed in Unity with multiple depth layers, enemy spawning systems, and a custom hardware controller.
 - [Last Try](https://github.com/DLuckYD/last-try-game) - Eye-tracking strategy game where players memorize an enemy army and recruit counter-units using gaze-based controls.
-- [VGGI Course](https://github.com/mistaferry/VGGI-Course/tree/main) - University WebGL coursework covering surface rendering, texture mapping, UV transformations, and lighting.
+- [VGGI Coursework](https://github.com/mistaferry/VGGI-Course/tree/main) - University WebGL coursework covering surface rendering, texture mapping, UV transformations, and lighting.
