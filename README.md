@@ -9,8 +9,6 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 - 🌍 Fluent in English, learning German
 - 📷 Interested in photography and travel
 
----
-
 ## 🛠️ Tech Stack
 
 <!-- **Backend Development**
