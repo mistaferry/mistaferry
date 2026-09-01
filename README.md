@@ -11,7 +11,25 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 
 ## 🛠️ Tech Stack
 
-<!-- **Backend Development**
+**Game Development**
+
+*Engine & Language:*
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
+*Areas & Technologies:*
+
+![Eye Tracking](https://img.shields.io/badge/Eye%20Tracking-007ACC?style=for-the-badge)
+![Ray Tracing](https://img.shields.io/badge/Ray%20Tracing-5C2D91?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-3776AB?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+**Backend Development**
 
 *Backend & Frontend:*
 
@@ -35,30 +53,14 @@ Computer Science graduate, currently pursuing a Master's degree in Game Technolo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
--->
-**Game Development**
-
-*Engine & Language:*
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
-*Areas & Technologies:*
-
-![Eye Tracking](https://img.shields.io/badge/Eye%20Tracking-007ACC?style=for-the-badge)
-![Ray Tracing](https://img.shields.io/badge/Ray%20Tracing-5C2D91?style=for-the-badge)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-3776AB?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
 
-<!-- **Java / Backend**
-- [Project Name](link) — короткий опис що це і що ти зробила
--->
 **Game Development**
 - [Dragon Soup](https://github.com/DLuckYD/dragon-soup-game) - First-person fantasy tavern game featuring quests, cooking, dialogue, trading, object upgrades, and multiple endings.
 - [Fishy Game](https://github.com/DLuckYD/Fishy-Game) - Ocean-themed horde-like game developed in Unity with multiple depth layers, enemy spawning systems, and a custom hardware controller.
 - [Last Try](https://github.com/DLuckYD/last-try-game) - Eye-tracking strategy game where players memorize an enemy army and recruit counter-units using gaze-based controls.
 - [VGGI Coursework](https://github.com/mistaferry/VGGI-Course/tree/main) - University WebGL coursework covering surface rendering, texture mapping, UV transformations, and lighting.
+
+**Java / Backend**
+- [District Electricity Consumption System](https://github.com/mistaferry/district-electricity-consumption-system) — A Spring Boot and Vaadin web application for managing electricity meters and consumption records across multiple district-specific MySQL databases.
